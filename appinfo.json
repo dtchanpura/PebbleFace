@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "dtchanpura@gmail.com",
+    "longName": "MTFBWY",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Lato-Bold.ttf",
+                "name": "FONT_LATO_BOLD_42",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Lato-Regular.ttf",
+                "name": "FONT_LATO_REGULAR_20",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "MTFBWY",
+    "uuid": "3e298dbb-3800-4a53-b331-287044022ef8",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
