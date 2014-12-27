@@ -79,7 +79,7 @@ static void main_window_load(Window *window) {
 
 	////////////////////
 	s_sometext_layer = text_layer_create(GRect(0,100,144,68));
-	text_layer_set_text(s_sometext_layer,"May the force be with you...");
+	text_layer_set_text(s_sometext_layer,"Live Long and Prosper... \\//");
 	text_layer_set_background_color(s_sometext_layer, GColorBlack);
 	text_layer_set_text_color(s_sometext_layer, GColorClear);
 
