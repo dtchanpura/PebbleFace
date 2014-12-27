@@ -4,27 +4,27 @@
         ""
     ],
     "companyName": "dtchanpura@gmail.com",
-    "longName": "MTFBWY",
+    "longName": "LLAP",
     "projectType": "native",
     "resources": {
         "media": [
             {
-                "file": "fonts/Lato-Bold.ttf",
-                "name": "FONT_LATO_BOLD_42",
+                "file": "fonts/Lato-Light.ttf",
+                "name": "FONT_LATO_LIGHT_20",
                 "type": "font"
             },
             {
-                "file": "fonts/Lato-Regular.ttf",
-                "name": "FONT_LATO_REGULAR_20",
+                "file": "fonts/Lato-Bold.ttf",
+                "name": "FONT_LATO_BOLD_42",
                 "type": "font"
             }
         ]
     },
-    "shortName": "MTFBWY",
+    "shortName": "LLAP",
     "uuid": "3e298dbb-3800-4a53-b331-287044022ef8",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "0.1",
     "watchapp": {
-        "watchface": false
+        "watchface": true
     }
 }

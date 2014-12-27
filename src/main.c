@@ -71,7 +71,7 @@ static void main_window_load(Window *window) {
 	text_layer_set_background_color(s_date_layer, GColorBlack);
 	text_layer_set_text_color(s_date_layer, GColorClear);
 	//Create GFont
-	s_sometext_font = fonts_load_custom_font(resource_get_handle(RESOURCE_ID_FONT_LATO_REGULAR_20));
+	s_sometext_font = fonts_load_custom_font(resource_get_handle(RESOURCE_ID_FONT_LATO_LIGHT_20));
 	text_layer_set_font(s_date_layer, s_sometext_font);
 	text_layer_set_text_alignment(s_date_layer, GTextAlignmentCenter);
 	layer_add_child(window_get_root_layer(window), text_layer_get_layer(s_date_layer));
