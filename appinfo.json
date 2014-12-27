@@ -4,26 +4,21 @@
         ""
     ],
     "companyName": "dtchanpura@gmail.com",
-    "longName": "LLAP",
+    "longName": "HourMinute",
     "projectType": "native",
     "resources": {
         "media": [
             {
-                "file": "fonts/Lato-Light.ttf",
-                "name": "FONT_LATO_LIGHT_20",
-                "type": "font"
-            },
-            {
-                "file": "fonts/Lato-Bold.ttf",
-                "name": "FONT_LATO_BOLD_42",
-                "type": "font"
+                "file": "images/myimage.pbl_dark.png",
+                "name": "IMAGE_DIREWOLF",
+                "type": "png"
             }
         ]
     },
-    "shortName": "LLAP",
-    "uuid": "3e298dbb-3800-4a53-b331-287044022ef8",
+    "shortName": "HourMinute",
+    "uuid": "4800e04a-7cf8-4084-9159-7ed63201dca8",
     "versionCode": 1,
-    "versionLabel": "0.1",
+    "versionLabel": "1.0",
     "watchapp": {
         "watchface": true
     }
